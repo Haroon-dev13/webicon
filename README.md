@@ -1,16 +1,20 @@
 # Webicon 
 
 ## Description
-This is Webicon company website.It has all the details what they do,which services they provided.
+This is Webicon company website.It has all the details what they do,which services they provide.
 
 
 ## Installation
-To use this Website you do not need to install any software and tool.You just need browser and internet connection to visit this website.
+To use this Website you do not need to install any software or tool.You just need a browser and internet connection to visit this website.
 
 ## Usage
-Webicon is a solution provider company.They will help you to search engine optimization (SEO) and social media marketing.They will help take your business to next level with thier best marketing and SEO services.
+Webicon is a solution provider company.They will help you to search engine optimization (SEO) and social media marketing.They will help you to take your business to higher level with their best marketing and SEO services.Given below is Full page secreen short for the Website.
+![alt text](assets/images/webicon.png)
 
 
 ## Credits
-All credits goes to Haroon-Dev.
+N/A
+
+## License
+Copyright (c) 2022 Haroon-Dev
 
